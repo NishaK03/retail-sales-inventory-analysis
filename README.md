@@ -83,9 +83,11 @@ Quality checks were used to validate the cleaned transaction dataset and verify 
 
 ## Project Structure
 
-
+```text
 retail-sales-inventory-analysis/
 ├── README.md
+├── workbook/
+│   └── NovaMart_Retail_Analysis.xlsx
 ├── documentation/
 │   ├── business_problem.md
 │   ├── business_requirements.md
@@ -94,6 +96,8 @@ retail-sales-inventory-analysis/
 │   └── business_insights.md
 └── analysis/
     └── data_cleaning.md
+```
+
 
 ## Limitations
 
