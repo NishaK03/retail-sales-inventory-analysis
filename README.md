@@ -86,8 +86,7 @@ Quality checks were used to validate the cleaned transaction dataset and verify 
 ```text
 retail-sales-inventory-analysis/
 ├── README.md
-├── workbook/
-│   └── NovaMart_Retail_Analysis.xlsx
+├── NovaMart_Retail_Analysis.xlsx
 ├── documentation/
 │   ├── business_problem.md
 │   ├── business_requirements.md
